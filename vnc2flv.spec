@@ -1,6 +1,6 @@
 Name:		vnc2flv
 Version:	20100207
-Release:	%mkrel 1
+Release:	2
 License:	MIT
 Group:		Video
 URL:		http://www.unixuser.org/~euske/python/vnc2flv/index.html
@@ -12,7 +12,8 @@ Obsoletes:	vnc2swf
 BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 
 %description
-Vnc2flv is a screen recorder. It captures a VNC desktop session and saves it as a Flash Video (FLV) file.
+Vnc2flv is a screen recorder. It captures a VNC desktop session and saves it as
+a Flash Video (FLV) file.
 
 %prep
 %setup -q 
