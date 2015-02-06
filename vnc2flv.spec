@@ -1,6 +1,6 @@
 Name:		vnc2flv
 Version:	20100207
-Release:	2
+Release:	3
 License:	MIT
 Group:		Video
 URL:		http://www.unixuser.org/~euske/python/vnc2flv/index.html
