@@ -3,7 +3,7 @@ Version:	20100207
 Release:	3
 License:	MIT
 Group:		Video
-URL:		http://www.unixuser.org/~euske/python/vnc2flv/index.html
+URL:		https://www.unixuser.org/~euske/python/vnc2flv/index.html
 Source:		http://pypi.python.org/packages/source/v/vnc2flv/%{name}-%{version}.tar.gz
 Summary:	Screen recording tool that captures a VNC session and saves as FLV
 BuildRequires:	python-devel
